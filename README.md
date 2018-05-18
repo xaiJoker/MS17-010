@@ -2,9 +2,6 @@
 
 ### Usage
 
-```
-
-```
 ### MAC OSX 
 ```
 git clone https://github.com/xaiJoker/MS17-010/
