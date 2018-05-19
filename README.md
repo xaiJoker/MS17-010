@@ -8,7 +8,7 @@ git clone https://github.com/xaiJoker/MS17-010/
 cd ms17-010 && chmod +x ms17-010.sh
 sh ms17-010.sh
 ```
-### Kali Linux and Ubuntu
+### Linux
 ```
 git clone https://github.com/xaiJoker/MS17-010
 cd ms17-010 && chmod +x ms17-010.sh
